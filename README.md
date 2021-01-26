@@ -8,4 +8,5 @@ App uses technologies such as:
   - Zuul Proxy
   - MongoDB / MySql
   - JavaMailSender
-which allowed to develop applicaiton based on microservices using SPIRNG BOOT framework
+  
+  which allowed to develop applicaiton based on microservices using SPIRNG BOOT framework
